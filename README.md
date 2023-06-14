@@ -2,7 +2,7 @@
 Python implemention of the four-square cipher. Read the [article on Wikipedia](https://en.wikipedia.org/wiki/Four-square_cipher) for an explanation of the algorithm and a reference implemention.
 
 ## Usage
-This package runs without any dependencies whatsoever. 
+This package runs with **no dependencies** whatsoever. 
 ```
 import foursquare
 
