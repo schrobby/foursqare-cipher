@@ -1,5 +1,5 @@
 # foursqare-cipher
-Python implemention of the four-square cipher. Read the [article on Wikipedia](https://en.wikipedia.org/wiki/Four-square_cipher) if you want to learn more.
+Python implemention of the four-square cipher. Read the [article on Wikipedia](https://en.wikipedia.org/wiki/Four-square_cipher) for an explanation of the algorithm and a reference implemention.
 
 ## Usage
 This package runs without any dependencies whatsoever. 
