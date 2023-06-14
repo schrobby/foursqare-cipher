@@ -3,7 +3,7 @@ Python implemention of the four-square cipher. Read the [article on Wikipedia](h
 
 ## Usage
 This package runs with **no dependencies** whatsoever. 
-```
+```python
 import foursquare
 
 cipher = foursquare.Cipher('DIDNT', 'READ', 'TLDR')
@@ -16,6 +16,6 @@ decode = cipher.decrypt(encode)
 Unlike the reference implementation on Wikipedia, up to 4 keys can be provided when creating a `Cipher` object. 
 
 If you would like to **only** encode the 2nd and 3rd alphabet table, set the corresponding argument to an empty string:
-```
+```python
 cipher = foursquare.Cipher('', 'READ', 'TLDR', '')
 ```
